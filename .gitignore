@@ -1,3 +1,2 @@
 /webserver/node_modules/
 /webserver/package-lock.json
-/25mongoapi/controller/controller.go

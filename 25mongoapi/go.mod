@@ -3,14 +3,13 @@ module github.com/aseemchopra25/gopherx/25mongoapi
 go 1.18
 
 require (
-	github.com/dgraph-io/badger/v2 v2.2007.4
+	github.com/gorilla/mux v1.8.0
 	go.mongodb.org/mongo-driver v1.9.1
 )
 
 require (
 	github.com/go-stack/stack v1.8.0 // indirect
-	github.com/golang/snappy v0.0.3 // indirect
-	github.com/gorilla/mux v1.8.0 // indirect
+	github.com/golang/snappy v0.0.1 // indirect
 	github.com/klauspost/compress v1.13.6 // indirect
 	github.com/pkg/errors v0.9.1 // indirect
 	github.com/xdg-go/pbkdf2 v1.0.0 // indirect
